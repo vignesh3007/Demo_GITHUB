@@ -31,6 +31,7 @@ public class CallbackFunctionality extends Base {
 		Log.debug("Browser initated");
     	driver = enterWebPage(driver,prop);
     	Log.info("URL successfully entered");
+    	Log.info("Add this info for GIT purposes");
 	}
 	
 	@Test (dataProvider="Getdata")
@@ -40,6 +41,7 @@ public class CallbackFunctionality extends Base {
 		homePage LP = new homePage(driver);
 		LP.ClickCallBack().click();
 		Log.info("Successfully clicked the callback option in homepage");
+		Log.info("This is for debugging purposes");
 		LP.callbackfullname().sendKeys(name);
 		LP.callbacktelephone().sendKeys(telephone);
 		LP.callbackprefdatetime().sendKeys(preftime);
