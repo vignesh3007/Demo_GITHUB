@@ -43,6 +43,7 @@ public class CallbackFunctionality extends Base {
 		Log.info("Successfully clicked the callback option in homepage");
 		Log.info("This is for debugging purposes");
 		Log.info("Test");
+		Log.info("Test30");
 		LP.callbackfullname().sendKeys(name);
 		LP.callbacktelephone().sendKeys(telephone);
 		LP.callbackprefdatetime().sendKeys(preftime);
