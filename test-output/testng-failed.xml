@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.fridaymove.Listeners"/>
+    <listener class-name="Resources.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="CallBack Functionality(failed)">
+    <classes>
+      <class name="com.fridaymove.CallbackFunctionality">
+        <methods>
+          <include name="contactUs"/>
+          <include name="Callback"/>
+          <include name="teardown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- com.fridaymove.CallbackFunctionality -->
+    </classes>
+  </test> <!-- CallBack Functionality(failed) -->
+</suite> <!-- Failed suite [Suite] -->

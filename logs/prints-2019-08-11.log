@@ -1,0 +1,6 @@
+21:55:21.080 [main] INFO  Resources.Base - Logo is present in home page
+21:55:23.942 [main] INFO  Resources.Base - Logo is present in residential page
+22:00:56.048 [main] INFO  com.fridaymove.Purchase - All the global variables is initialised and the browser is opened with the correct URL
+22:01:24.060 [main] INFO  com.fridaymove.Purchase - Purchase option is successfully completed
+22:01:42.213 [main] INFO  com.fridaymove.Purchase - residential button is successfully validated
+22:01:52.430 [main] INFO  com.fridaymove.Purchase - Purchase option from main menu is successfully completed

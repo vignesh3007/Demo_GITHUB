@@ -1,0 +1,15 @@
+11:56:39.973 [main] DEBUG Resources.Base - Properties File loaded
+11:57:56.608 [main] DEBUG Resources.Base - Browser initated
+11:58:30.477 [main] INFO  Resources.Base - URL successfully entered
+11:58:41.414 [main] INFO  Resources.Base - Successfully clicked the callback option in homepage
+11:58:46.725 [main] INFO  Resources.Base - Entered all the datas successfully
+11:58:52.135 [main] INFO  Resources.Base - Successfully clicked the callback option in homepage
+11:58:52.578 [main] INFO  Resources.Base - Entered all the datas successfully
+11:59:18.388 [main] INFO  Resources.Base - ContactUs Callback validation is completed successfully
+12:00:26.432 [main] INFO  Resources.Base - Logo is present in home page
+12:00:42.777 [main] INFO  Resources.Base - Logo is present in residential page
+12:01:17.489 [main] INFO  com.fridaymove.Purchase - All the global variables is initialised and the browser is opened with the correct URL
+12:01:38.256 [main] INFO  com.fridaymove.Purchase - Purchase option is successfully completed
+12:02:03.911 [main] INFO  com.fridaymove.Purchase - residential button is successfully validated
+12:02:32.079 [main] INFO  com.fridaymove.Purchase - Purchase option from main menu is successfully completed
+12:02:55.460 [main] INFO  com.fridaymove.Purchase - Get quote option is successfully working

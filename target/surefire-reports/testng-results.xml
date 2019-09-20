@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="312673" started-at="2019-08-11T17:04:05Z" finished-at="2019-08-11T17:09:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="312673" started-at="2019-08-11T17:04:05Z" finished-at="2019-08-11T17:09:17Z">
+      <class name="com.fridaymove.logoVerify">
+        <test-method status="PASS" signature="HomepageLandingLogo()[pri:0, instance:com.fridaymove.logoVerify@5119fb47]" name="HomepageLandingLogo" duration-ms="563" started-at="2019-08-11T17:07:15Z" finished-at="2019-08-11T17:07:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomepageLandingLogo -->
+        <test-method status="PASS" signature="residentialLogo()[pri:0, instance:com.fridaymove.logoVerify@5119fb47]" name="residentialLogo" duration-ms="8700" started-at="2019-08-11T17:07:16Z" finished-at="2019-08-11T17:07:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- residentialLogo -->
+      </class> <!-- com.fridaymove.logoVerify -->
+      <class name="com.fridaymove.CallbackFunctionality">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.fridaymove.CallbackFunctionality@6a192cfe]" name="initialize" is-config="true" duration-ms="41632" started-at="2019-08-11T17:04:05Z" finished-at="2019-08-11T17:04:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="initialise()[pri:0, instance:com.fridaymove.Purchase@7193666c]" name="initialise" is-config="true" duration-ms="45166" started-at="2019-08-11T17:04:46Z" finished-at="2019-08-11T17:05:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialise -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.fridaymove.logoVerify@5119fb47]" name="initialize" is-config="true" duration-ms="55051" started-at="2019-08-11T17:05:31Z" finished-at="2019-08-11T17:06:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="Callback(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.fridaymove.CallbackFunctionality@6a192cfe]" name="Callback" duration-ms="25133" started-at="2019-08-11T17:06:27Z" data-provider="Getdata" finished-at="2019-08-11T17:06:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Anyday morning]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Info1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Callback -->
+        <test-method status="PASS" signature="Callback(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.fridaymove.CallbackFunctionality@6a192cfe]" name="Callback" duration-ms="4827" started-at="2019-08-11T17:06:52Z" data-provider="Getdata" finished-at="2019-08-11T17:06:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Name2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[56789]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Weekend afternoon]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Info2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Callback -->
+        <test-method status="PASS" signature="contactUs()[pri:0, instance:com.fridaymove.CallbackFunctionality@6a192cfe]" name="contactUs" duration-ms="17815" started-at="2019-08-11T17:06:57Z" finished-at="2019-08-11T17:07:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUs -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.fridaymove.CallbackFunctionality@6a192cfe]" name="teardown" is-config="true" duration-ms="3623" started-at="2019-08-11T17:09:12Z" finished-at="2019-08-11T17:09:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.fridaymove.Purchase@7193666c]" name="teardown" is-config="true" duration-ms="1638" started-at="2019-08-11T17:09:15Z" finished-at="2019-08-11T17:09:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.fridaymove.logoVerify@5119fb47]" name="teardown" is-config="true" duration-ms="211" started-at="2019-08-11T17:09:17Z" finished-at="2019-08-11T17:09:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.fridaymove.CallbackFunctionality -->
+      <class name="com.fridaymove.Purchase">
+        <test-method status="PASS" signature="purchaseResidential()[pri:0, instance:com.fridaymove.Purchase@7193666c]" name="purchaseResidential" duration-ms="22351" started-at="2019-08-11T17:07:24Z" finished-at="2019-08-11T17:07:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseResidential -->
+        <test-method status="PASS" signature="purchseresidence_button()[pri:0, instance:com.fridaymove.Purchase@7193666c]" name="purchseresidence_button" duration-ms="28290" started-at="2019-08-11T17:07:47Z" finished-at="2019-08-11T17:08:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchseresidence_button -->
+        <test-method status="PASS" signature="purchseresidence_mainmenu()[pri:0, instance:com.fridaymove.Purchase@7193666c]" name="purchseresidence_mainmenu" duration-ms="29842" started-at="2019-08-11T17:08:15Z" finished-at="2019-08-11T17:08:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchseresidence_mainmenu -->
+        <test-method status="PASS" signature="purchseresidence_quote()[pri:0, instance:com.fridaymove.Purchase@7193666c]" name="purchseresidence_quote" duration-ms="26942" started-at="2019-08-11T17:08:45Z" finished-at="2019-08-11T17:09:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchseresidence_quote -->
+      </class> <!-- com.fridaymove.Purchase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
